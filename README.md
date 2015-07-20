@@ -1,2 +1,3 @@
 # sistema-de-gestion-terminado
-Sistema de Gestión desarrollado en C#. NET y SQL Server.
+Order management system (ORM) developed in C# .NET and SQL Server.
+
