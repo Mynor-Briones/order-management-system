@@ -1,5 +1,5 @@
 # sistema-de-gestion-terminado
-Order management system (ORM) developed in C# .NET and SQL Server.
+Order Management Software (OMS) developed in C# .NET and SQL Server.
 
 INFO: http://hernanmartin.me/proyecto-sistema-de-gestion-para-una-empresa/
 
