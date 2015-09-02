@@ -1,5 +1,6 @@
 # sistema-de-gestion-terminado
-Order Management Software (OMS) developed in C# .NET and SQL Server.
+
+OMS ERP business software solution that allows wholesale/retail distributors to process and access data. 
 
 INFO: http://hernanmartin.me/proyecto-sistema-de-gestion-para-una-empresa/
 
